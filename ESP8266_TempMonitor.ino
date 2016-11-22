@@ -1,4 +1,5 @@
 // Temperature monitor using DS12B80
+// Copyright (C) 2016 Richard Lee
 // 2016Mar12 Created (from HydroDipThermostat) -- RL
 // 2016Nov18 Remove cruft -- RL
 
